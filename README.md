@@ -1,2 +1,2 @@
 # astu
-astu
+Astu projects
